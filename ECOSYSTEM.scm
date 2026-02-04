@@ -3,8 +3,8 @@
 
 (ecosystem
  (version "1.0")
- (name "k9-tools")
- (type "TODO: library|application|tool|framework")
+ (name "k9-librarys")
+ (type "library|application|tool|framework")
  (purpose "TODO: Brief purpose statement")
 
  (position-in-ecosystem
